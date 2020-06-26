@@ -1,0 +1,1067 @@
+(* Content-type: application/vnd.wolfram.mathematica *)
+
+(*** Wolfram Notebook File ***)
+(* http://www.wolfram.com/nb *)
+
+(* CreatedBy='Mathematica 12.1' *)
+
+(*CacheID: 234*)
+(* Internal cache information:
+NotebookFileLineBreakTest
+NotebookFileLineBreakTest
+NotebookDataPosition[       158,          7]
+NotebookDataLength[     51847,       1057]
+NotebookOptionsPosition[     50642,       1029]
+NotebookOutlinePosition[     51038,       1045]
+CellTagsIndexPosition[     50995,       1042]
+WindowFrame->Normal*)
+
+(* Beginning of Notebook Content *)
+Notebook[{
+Cell[TextData[Cell[BoxData[
+ GraphicsBox[
+  TagBox[RasterBox[CompressedData["
+1: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
+    
+    "], {{0, 89.}, {368., 0}}, {0, 255},
+    ColorFunction->RGBColor],
+   BoxForm`ImageTag[
+   "Byte", ColorSpace -> "RGB", Interleaving -> True, MetaInformation -> 
+    Association[
+     "Exif" -> Association[
+       "NewSubfileType" -> "Full-resolution Image", "ImageWidth" -> 368, 
+        "ImageLength" -> 89, "BitsPerSample" -> {8, 8, 8}, "Compression" -> 
+        "LZW", "PhotometricInterpretation" -> "RGB", "DocumentName" -> 
+        "/shared/OneDrive/code/github/MML/dmm over dmmorganphddotca.tif", 
+        "StripOffsets" -> {8, 4946}, "Orientation" -> 
+        Association["CameraTopOrientation" -> Top, "Mirrored" -> False], 
+        "SamplesPerPixel" -> 3, "RowsPerStrip" -> 64, 
+        "StripByteCounts" -> {4938, 1965}, "XResolution" -> 200, 
+        "YResolution" -> 200, "PlanarConfiguration" -> "Chunky", 
+        "ResolutionUnit" -> "Inch", "Predictor" -> 
+        "Horizontal differencing"]]],
+   Selectable->False],
+  DefaultBaseStyle->"ImageGraphics",
+  ImageSizeRaw->{368., 89.},
+  PlotRange->{{0, 368.}, {
+    0, 89.}}]],ExpressionUUID->"df844625-3183-4c9e-8c14-6717b1389fe8"]], \
+"Text",
+ CellChangeTimes->{
+  3.801137180401614*^9, {3.8021260956383467`*^9, 3.8021261024551086`*^9}, 
+   3.802126635048121*^9},
+ TextAlignment->Right,ExpressionUUID->"058051f1-1366-482e-85e8-8280a85cb714"],
+
+Cell[CellGroupData[{
+
+Cell["Exploring Mathematica\[CloseCurlyQuote]s ML Algorithms", "Title",
+ CellChangeTimes->{{3.79987800570578*^9, 3.799878010303668*^9}, {
+  3.800808007642687*^9, 3.800808015551523*^9}, {3.8011371949092693`*^9, 
+  3.801137259712585*^9}, {3.8021266489225903`*^9, 
+  3.802126669695677*^9}},ExpressionUUID->"2c060bd2-16f8-4be7-a1cb-\
+b603277d5507"],
+
+Cell[TextData[StyleBox["This notebook has been created with Mathematica \
+Commercial License L3302-6545 . ",
+ FontSlant->"Italic",
+ FontColor->RGBColor[1, 0, 1]]], "Text",
+ CellChangeTimes->{{3.799958787694915*^9, 3.799958917176119*^9}, {
+  3.799959159335161*^9, 3.799959296183918*^9}, {3.799962639485429*^9, 
+  3.7999626852427797`*^9}, {3.799962798917831*^9, 3.799962800990922*^9}, {
+  3.800293824579274*^9, 3.800293865820447*^9}},
+ TextAlignment->Right,ExpressionUUID->"821c9a04-960a-44e3-bcef-e2a26c0a8676"],
+
+Cell["\<\
+June 25, 2020
+
+Copyright (c) David M. Morgan
+GNU General Public License, v. 3.0 or later
+
+Antigonish Landing, NS B2G 2L2 Canada
+david@dmmorganphd.ca; http://dmmorganphd.ca; (902) 318-4906\
+\>", "Text",
+ CellChangeTimes->{{3.7999628047731113`*^9, 3.79996281342213*^9}, {
+  3.799962866758527*^9, 3.7999628956860027`*^9}, {3.8002938530727587`*^9, 
+  3.8002938711634073`*^9}, {3.800293909924945*^9, 3.8002944345050583`*^9}, {
+  3.8003134957690477`*^9, 3.800313604548006*^9}, {3.8003136433575687`*^9, 
+  3.8003136502424507`*^9}, {3.800313680738512*^9, 3.800313933550432*^9}, {
+  3.80031396556758*^9, 3.800314054692861*^9}, {3.800314164846736*^9, 
+  3.800314167918345*^9}, {3.800808025466436*^9, 3.8008080660530453`*^9}, {
+  3.801137429635413*^9, 3.801137435990624*^9}, {3.8019463707954073`*^9, 
+  3.801946381557847*^9}, {3.802126681617955*^9, 
+  3.802126715282641*^9}},ExpressionUUID->"6b20f662-cf09-4aa8-a6c1-\
+6dfcb0581bc2"],
+
+Cell[TextData[StyleBox["Predict:", "Subsubsection"]], "Text",
+ CellChangeTimes->{{3.799879547156506*^9, 3.799879558304983*^9}, {
+   3.8011379890575027`*^9, 3.8011379905699673`*^9}, 3.801138080689164*^9, {
+   3.80212673744398*^9, 
+   3.802126741193849*^9}},ExpressionUUID->"e505aeac-7ccb-47f9-b90b-\
+aeafdef68fa6"],
+
+Cell[CellGroupData[{
+
+Cell[BoxData[
+ RowBox[{"?", "Predict"}]], "Input",
+ CellChangeTimes->{{3.802126743883079*^9, 3.802126745743864*^9}},
+ CellLabel->"In[1]:=",ExpressionUUID->"6838ddfb-b251-42cb-b091-c01987a871e8"],
+
+Cell[BoxData[
+ InterpretationBox[
+  StyleBox[
+   FrameBox[
+    DynamicModuleBox[{System`InformationDump`open$$ = True, 
+     System`InformationDump`mouseOver$$ = False}, 
+     PaneSelectorBox[{True->
+      TagBox[GridBox[{
+         {
+          ItemBox[
+           PaneBox[
+            StyleBox["\<\" Symbol\"\>", "InformationTitleText",
+             StripOnInput->False,
+             BaseStyle -> None],
+            FrameMargins->{{4, 0}, {-1, 1}}],
+           BaseStyle->"InformationTitleBackground",
+           StripOnInput->False], 
+          ItemBox[
+           PaneBox[
+            TooltipBox[
+             ButtonBox[
+              PaneSelectorBox[{False->
+               
+               DynamicBox[FEPrivate`FrontEndResource[
+                "FEBitmaps", "InformationHelpIcon"],
+                ImageSizeCache->{13., {4., 9.}}], True->
+               
+               DynamicBox[FEPrivate`FrontEndResource[
+                "FEBitmaps", "InformationHelpIconHot"],
+                ImageSizeCache->{13., {4., 9.}}]}, Dynamic[
+                CurrentValue["MouseOver"]]],
+              Appearance->None,
+              BaseStyle->"Link",
+              ButtonData->"paclet:ref/Predict",
+              ButtonNote->"paclet:ref/Predict"],
+             "\"paclet:ref/Predict\""],
+            FrameMargins->{{0, 4}, {0, 2}}],
+           BaseStyle->"InformationTitleBackground",
+           StripOnInput->False]},
+         {
+          ItemBox[
+           PaneBox[
+            
+            StyleBox["\<\"\\!\\(\\*RowBox[{\\\"Predict\\\", \\\"[\\\", \
+RowBox[{\\\"{\\\", RowBox[{RowBox[{SubscriptBox[StyleBox[\\\"in\\\", \\\"TI\\\
+\"], StyleBox[\\\"1\\\", \\\"TR\\\"]], \\\"\[Rule]\\\", \
+SubscriptBox[StyleBox[\\\"out\\\", \\\"TI\\\"], StyleBox[\\\"1\\\", \
+\\\"TR\\\"]]}], \\\",\\\", RowBox[{SubscriptBox[StyleBox[\\\"in\\\", \\\"TI\\\
+\"], StyleBox[\\\"2\\\", \\\"TR\\\"]], \\\"\[Rule]\\\", \
+SubscriptBox[StyleBox[\\\"out\\\", \\\"TI\\\"], StyleBox[\\\"2\\\", \
+\\\"TR\\\"]]}], \\\",\\\", StyleBox[\\\"\[Ellipsis]\\\", \\\"TR\\\"]}], \\\"}\
+\\\"}], \\\"]\\\"}]\\) generates a \
+\\!\\(\\*RowBox[{\\\"PredictorFunction\\\", \\\"[\\\", StyleBox[\\\"\
+\[Ellipsis]\\\", \\\"TR\\\"], \\\"]\\\"}]\\) based on the example \
+input-output pairs given.\\n\\!\\(\\*RowBox[{\\\"Predict\\\", \\\"[\\\", \
+RowBox[{RowBox[{\\\"{\\\", RowBox[{SubscriptBox[StyleBox[\\\"in\\\", \\\"TI\\\
+\"], StyleBox[\\\"1\\\", \\\"TR\\\"]], \\\",\\\", \
+SubscriptBox[StyleBox[\\\"in\\\", \\\"TI\\\"], StyleBox[\\\"2\\\", \
+\\\"TR\\\"]], \\\",\\\", StyleBox[\\\"\[Ellipsis]\\\", \\\"TR\\\"]}], \\\"}\\\
+\"}], \\\"\[Rule]\\\", RowBox[{\\\"{\\\", \
+RowBox[{SubscriptBox[StyleBox[\\\"out\\\", \\\"TI\\\"], StyleBox[\\\"1\\\", \
+\\\"TR\\\"]], \\\",\\\", SubscriptBox[StyleBox[\\\"out\\\", \\\"TI\\\"], \
+StyleBox[\\\"2\\\", \\\"TR\\\"]], \\\",\\\", StyleBox[\\\"\[Ellipsis]\\\", \\\
+\"TR\\\"]}], \\\"}\\\"}]}], \\\"]\\\"}]\\) generates the same \
+result.\\n\\!\\(\\*RowBox[{\\\"Predict\\\", \\\"[\\\", \
+RowBox[{StyleBox[\\\"training\\\", \\\"TI\\\"], \\\",\\\", StyleBox[\\\"input\
+\\\", \\\"TI\\\"]}], \\\"]\\\"}]\\) attempts to predict the output associated \
+with \\!\\(\\*StyleBox[\\\"input\\\", \\\"TI\\\"]\\) from the training \
+examples given.\\n\\!\\(\\*RowBox[{\\\"Predict\\\", \\\"[\\\", \
+RowBox[{StyleBox[\\\"\\\\\\\"\\\\!\\\\(\\\\*StyleBox[\\\\\\\"name\\\\\\\",\\\\\
+\\\"TI\\\\\\\"]\\\\)\\\\\\\"\\\", ShowStringCharacters->True], \\\",\\\", \
+StyleBox[\\\"input\\\", \\\"TI\\\"]}], \\\"]\\\"}]\\) uses the built-in \
+predictor function represented by \\\"\\!\\(\\*StyleBox[\\\"name\\\", \
+\\\"TI\\\"]\\)\\\".\\n\\!\\(\\*RowBox[{\\\"Predict\\\", \\\"[\\\", \
+RowBox[{StyleBox[\\\"predictor\\\", \\\"TI\\\"], \\\",\\\", StyleBox[\\\"opts\
+\\\", \\\"TI\\\"]}], \\\"]\\\"}]\\) takes an existing predictor function and \
+modifies it with the new options given.\"\>", "InformationUsageText",
+             StripOnInput->False,
+             LineSpacing->{1.5, 1.5, 3.}],
+            FrameMargins->{{10, 10}, {8, 10}}],
+           BaseStyle->"InformationUsageSubtitleBackground",
+           StripOnInput->False], 
+          ItemBox["\<\"\"\>",
+           BaseStyle->"InformationUsageSubtitleBackground",
+           StripOnInput->False]},
+         {
+          PaneBox[GridBox[{
+             {
+              
+              DynamicModuleBox[{System`InformationDump`open$$ = {
+               False, False, False, False, False, False, False, False, False, 
+                False, False, False}}, 
+               StyleBox[GridBox[{
+                  {
+                   TagBox[
+                    TooltipBox[
+                    StyleBox["\<\" Documentation\"\>", "InformationRowLabel",
+                    StripOnInput->False],
+                    "\"Documentation\"",
+                    TooltipStyle->"TextStyling"],
+                    Annotation[#, "Documentation", "Tooltip"]& ], 
+                   TemplateBox[{
+                    
+                    TemplateBox[{
+                    "\"Local \[RightGuillemet]\"", "paclet:ref/Predict", 
+                    "paclet:ref/Predict", "Link", {
+                    RGBColor[0.9686274509803922, 0.4666666666666667, 0.]}, 
+                    BaseStyle -> {
+                    RGBColor[0.0784313725490196, 0.1568627450980392, 0.6]}}, 
+                    "HyperlinkTemplate"], "\"  \"", 
+                    StyleBox[
+                    "\"|\"", "InformationRowLabel", StripOnInput -> False], 
+                    "\"  \"", 
+                    TemplateBox[{"\"Web \[RightGuillemet]\"", {
+                    URL[
+                    "http://reference.wolfram.com/language/ref/Predict.html"],
+                     None}, 
+                    "http://reference.wolfram.com/language/ref/Predict.html", 
+                    "Hyperlink", {
+                    RGBColor[0.9686274509803922, 0.4666666666666667, 0.]}, 
+                    BaseStyle -> {
+                    RGBColor[0.0784313725490196, 0.1568627450980392, 0.6]}}, 
+                    "HyperlinkTemplate"]},
+                    "RowDefault"]},
+                  {
+                   TagBox[
+                    TooltipBox[
+                    StyleBox["\<\" Attributes\"\>", "InformationRowLabel",
+                    StripOnInput->False],
+                    "\"Attributes\"",
+                    TooltipStyle->"TextStyling"],
+                    Annotation[#, "Attributes", "Tooltip"]& ], 
+                   RowBox[{"{", 
+                    RowBox[{"Protected", ",", "ReadProtected"}], "}"}]},
+                  {
+                   TagBox[
+                    TooltipBox[
+                    StyleBox["\<\" Full Name\"\>", "InformationRowLabel",
+                    StripOnInput->False],
+                    "\"FullName\"",
+                    TooltipStyle->"TextStyling"],
+                    
+                    Annotation[#, "FullName", 
+                    "Tooltip"]& ], "\<\"System`Predict\"\>"}
+                 },
+                 AutoDelete->False,
+                 GridBoxAlignment->{"Columns" -> {Right, Left}},
+                 GridBoxDividers->None,
+                 GridBoxItemSize->{"Columns" -> {Automatic, Automatic}},
+                 GridBoxSpacings->{"Columns" -> {
+                    Offset[0.27999999999999997`], {
+                    Offset[0.5599999999999999]}, 
+                    Offset[0.27999999999999997`]}, "Rows" -> {
+                    Offset[0.2], {
+                    Offset[0.8]}, 
+                    Offset[0.2]}}], "DialogStyle",
+                StripOnInput->False],
+               DynamicModuleValues:>{}]}
+            },
+            DefaultBaseStyle->"Column",
+            GridBoxAlignment->{"Columns" -> {{Left}}},
+            GridBoxDividers->{"Columns" -> {{False}}, "Rows" -> {{False}}},
+            
+            GridBoxItemSize->{
+             "Columns" -> {{Automatic}}, "Rows" -> {{Automatic}}},
+            GridBoxSpacings->{"Columns" -> {
+                Offset[0.27999999999999997`], {
+                 Offset[0.5599999999999999]}, 
+                Offset[0.27999999999999997`]}, "Rows" -> {
+                Offset[0.2], {
+                 Offset[3.6]}, 
+                Offset[0.2]}}],
+           FrameMargins->6], ""},
+         {
+          ItemBox[
+           TagBox[
+            ButtonBox[
+             PaneSelectorBox[{False->
+              
+              DynamicBox[FEPrivate`FrontEndResource[
+               "FEBitmaps", "UpPointerOpener"],
+               ImageSizeCache->{10., {3., 7.}}], True->
+              
+              DynamicBox[FEPrivate`FrontEndResource[
+               "FEBitmaps", "UpPointerOpenerHot"],
+               ImageSizeCache->{10., {3., 7.}}]}, Dynamic[
+              System`InformationDump`mouseOver$$]],
+             Alignment->Left,
+             Appearance->{"Default" -> None},
+             
+             ButtonFunction:>FEPrivate`Set[
+              System`InformationDump`open$$, False],
+             Evaluator->Automatic,
+             FrameMargins->{{9, 0}, {0, 0}},
+             ImageMargins->0,
+             ImageSize->Full,
+             Method->"Preemptive"],
+            
+            EventHandlerTag[{
+             "MouseEntered" :> 
+              FEPrivate`Set[System`InformationDump`mouseOver$$, True], 
+              "MouseExited" :> 
+              FEPrivate`Set[System`InformationDump`mouseOver$$, False], 
+              Method -> "Preemptive", PassEventsDown -> Automatic, 
+              PassEventsUp -> True}]],
+           BaseStyle->"InformationTitleBackground",
+           StripOnInput->False], "\[SpanFromLeft]"}
+        },
+        AutoDelete->False,
+        FrameStyle->Directive[
+          GrayLevel[0.8], 
+          Thickness[Tiny]],
+        GridBoxAlignment->{"Columns" -> {Left, Right}, "Rows" -> {{Center}}},
+        GridBoxDividers->{
+         "Columns" -> {{None}}, "Rows" -> {False, {True}, False}},
+        GridBoxItemSize->{
+         "Columns" -> {{Automatic}}, "Rows" -> {{Automatic}}}],
+       "Grid"], False->
+      TagBox[GridBox[{
+         {
+          ItemBox[
+           PaneBox[
+            StyleBox["\<\" Symbol\"\>", "InformationTitleText",
+             StripOnInput->False],
+            FrameMargins->{{4, 0}, {-1, 1}}],
+           BaseStyle->"InformationTitleBackground",
+           StripOnInput->False], 
+          ItemBox[
+           PaneBox[
+            TooltipBox[
+             ButtonBox[
+              PaneSelectorBox[{False->
+               
+               DynamicBox[FEPrivate`FrontEndResource[
+                "FEBitmaps", "InformationHelpIcon"],
+                ImageSizeCache->{13., {4., 9.}}], True->
+               
+               DynamicBox[FEPrivate`FrontEndResource[
+                "FEBitmaps", "InformationHelpIconHot"],
+                ImageSizeCache->{13., {4., 9.}}]}, Dynamic[
+                CurrentValue["MouseOver"]]],
+              Appearance->None,
+              BaseStyle->"Link",
+              ButtonData->"paclet:ref/Predict",
+              ButtonNote->"paclet:ref/Predict"],
+             "\"paclet:ref/Predict\""],
+            FrameMargins->{{0, 4}, {0, 2}}],
+           BaseStyle->"InformationTitleBackground",
+           StripOnInput->False]},
+         {
+          ItemBox[
+           PaneBox[
+            
+            StyleBox["\<\"\\!\\(\\*RowBox[{\\\"Predict\\\", \\\"[\\\", \
+RowBox[{\\\"{\\\", RowBox[{RowBox[{SubscriptBox[StyleBox[\\\"in\\\", \\\"TI\\\
+\"], StyleBox[\\\"1\\\", \\\"TR\\\"]], \\\"\[Rule]\\\", \
+SubscriptBox[StyleBox[\\\"out\\\", \\\"TI\\\"], StyleBox[\\\"1\\\", \
+\\\"TR\\\"]]}], \\\",\\\", RowBox[{SubscriptBox[StyleBox[\\\"in\\\", \\\"TI\\\
+\"], StyleBox[\\\"2\\\", \\\"TR\\\"]], \\\"\[Rule]\\\", \
+SubscriptBox[StyleBox[\\\"out\\\", \\\"TI\\\"], StyleBox[\\\"2\\\", \
+\\\"TR\\\"]]}], \\\",\\\", StyleBox[\\\"\[Ellipsis]\\\", \\\"TR\\\"]}], \\\"}\
+\\\"}], \\\"]\\\"}]\\) generates a \
+\\!\\(\\*RowBox[{\\\"PredictorFunction\\\", \\\"[\\\", StyleBox[\\\"\
+\[Ellipsis]\\\", \\\"TR\\\"], \\\"]\\\"}]\\) based on the example \
+input-output pairs given.\\n\\!\\(\\*RowBox[{\\\"Predict\\\", \\\"[\\\", \
+RowBox[{RowBox[{\\\"{\\\", RowBox[{SubscriptBox[StyleBox[\\\"in\\\", \\\"TI\\\
+\"], StyleBox[\\\"1\\\", \\\"TR\\\"]], \\\",\\\", \
+SubscriptBox[StyleBox[\\\"in\\\", \\\"TI\\\"], StyleBox[\\\"2\\\", \
+\\\"TR\\\"]], \\\",\\\", StyleBox[\\\"\[Ellipsis]\\\", \\\"TR\\\"]}], \\\"}\\\
+\"}], \\\"\[Rule]\\\", RowBox[{\\\"{\\\", \
+RowBox[{SubscriptBox[StyleBox[\\\"out\\\", \\\"TI\\\"], StyleBox[\\\"1\\\", \
+\\\"TR\\\"]], \\\",\\\", SubscriptBox[StyleBox[\\\"out\\\", \\\"TI\\\"], \
+StyleBox[\\\"2\\\", \\\"TR\\\"]], \\\",\\\", StyleBox[\\\"\[Ellipsis]\\\", \\\
+\"TR\\\"]}], \\\"}\\\"}]}], \\\"]\\\"}]\\) generates the same \
+result.\\n\\!\\(\\*RowBox[{\\\"Predict\\\", \\\"[\\\", \
+RowBox[{StyleBox[\\\"training\\\", \\\"TI\\\"], \\\",\\\", StyleBox[\\\"input\
+\\\", \\\"TI\\\"]}], \\\"]\\\"}]\\) attempts to predict the output associated \
+with \\!\\(\\*StyleBox[\\\"input\\\", \\\"TI\\\"]\\) from the training \
+examples given.\\n\\!\\(\\*RowBox[{\\\"Predict\\\", \\\"[\\\", \
+RowBox[{StyleBox[\\\"\\\\\\\"\\\\!\\\\(\\\\*StyleBox[\\\\\\\"name\\\\\\\",\\\\\
+\\\"TI\\\\\\\"]\\\\)\\\\\\\"\\\", ShowStringCharacters->True], \\\",\\\", \
+StyleBox[\\\"input\\\", \\\"TI\\\"]}], \\\"]\\\"}]\\) uses the built-in \
+predictor function represented by \\\"\\!\\(\\*StyleBox[\\\"name\\\", \
+\\\"TI\\\"]\\)\\\".\\n\\!\\(\\*RowBox[{\\\"Predict\\\", \\\"[\\\", \
+RowBox[{StyleBox[\\\"predictor\\\", \\\"TI\\\"], \\\",\\\", StyleBox[\\\"opts\
+\\\", \\\"TI\\\"]}], \\\"]\\\"}]\\) takes an existing predictor function and \
+modifies it with the new options given.\"\>", "InformationUsageText",
+             StripOnInput->False,
+             LineSpacing->{1.5, 1.5, 3.}],
+            FrameMargins->{{10, 10}, {8, 10}}],
+           BaseStyle->"InformationUsageSubtitleBackground",
+           StripOnInput->False], 
+          ItemBox["\<\"\"\>",
+           BaseStyle->"InformationUsageSubtitleBackground",
+           StripOnInput->False]},
+         {
+          ItemBox[
+           TagBox[
+            ButtonBox[
+             PaneSelectorBox[{False->
+              DynamicBox[FEPrivate`FrontEndResource[
+               "FEBitmaps", "DownPointerOpener"],
+               ImageSizeCache->{10., {3., 7.}}], True->
+              
+              DynamicBox[FEPrivate`FrontEndResource[
+               "FEBitmaps", "DownPointerOpenerHot"],
+               ImageSizeCache->{10., {3., 7.}}]}, Dynamic[
+              System`InformationDump`mouseOver$$]],
+             Alignment->Left,
+             Appearance->{"Default" -> None},
+             
+             ButtonFunction:>FEPrivate`Set[
+              System`InformationDump`open$$, True],
+             Evaluator->Automatic,
+             FrameMargins->{{9, 0}, {0, 0}},
+             ImageMargins->0,
+             ImageSize->Full,
+             Method->"Preemptive"],
+            
+            EventHandlerTag[{
+             "MouseEntered" :> 
+              FEPrivate`Set[System`InformationDump`mouseOver$$, True], 
+              "MouseExited" :> 
+              FEPrivate`Set[System`InformationDump`mouseOver$$, False], 
+              Method -> "Preemptive", PassEventsDown -> Automatic, 
+              PassEventsUp -> True}]],
+           BaseStyle->"InformationTitleBackground",
+           StripOnInput->False], "\[SpanFromLeft]"}
+        },
+        AutoDelete->False,
+        FrameStyle->Directive[
+          GrayLevel[0.8], 
+          Thickness[Tiny]],
+        GridBoxAlignment->{"Columns" -> {Left, Right}, "Rows" -> {{Center}}},
+        GridBoxDividers->{
+         "Columns" -> {{None}}, "Rows" -> {False, {True}, False}},
+        GridBoxItemSize->{
+         "Columns" -> {{Automatic}}, "Rows" -> {{Automatic}}}],
+       "Grid"]}, Dynamic[System`InformationDump`open$$],
+      BaselinePosition->Baseline,
+      FrameMargins->0,
+      ImageSize->Automatic],
+     DynamicModuleValues:>{}],
+    BaseStyle->"InformationGridFrame",
+    StripOnInput->False], "InformationGridPlain",
+   StripOnInput->False],
+  InformationData[
+   Association[
+   "ObjectType" -> "Symbol", "Usage" -> 
+    "\!\(\*RowBox[{\"Predict\", \"[\", RowBox[{\"{\", \
+RowBox[{RowBox[{SubscriptBox[StyleBox[\"in\", \"TI\"], StyleBox[\"1\", \
+\"TR\"]], \"\[Rule]\", SubscriptBox[StyleBox[\"out\", \"TI\"], \
+StyleBox[\"1\", \"TR\"]]}], \",\", RowBox[{SubscriptBox[StyleBox[\"in\", \"TI\
+\"], StyleBox[\"2\", \"TR\"]], \"\[Rule]\", SubscriptBox[StyleBox[\"out\", \
+\"TI\"], StyleBox[\"2\", \"TR\"]]}], \",\", StyleBox[\"\[Ellipsis]\", \
+\"TR\"]}], \"}\"}], \"]\"}]\) generates a \
+\!\(\*RowBox[{\"PredictorFunction\", \"[\", StyleBox[\"\[Ellipsis]\", \
+\"TR\"], \"]\"}]\) based on the example input-output pairs given.\n\
+\!\(\*RowBox[{\"Predict\", \"[\", RowBox[{RowBox[{\"{\", \
+RowBox[{SubscriptBox[StyleBox[\"in\", \"TI\"], StyleBox[\"1\", \"TR\"]], \
+\",\", SubscriptBox[StyleBox[\"in\", \"TI\"], StyleBox[\"2\", \"TR\"]], \
+\",\", StyleBox[\"\[Ellipsis]\", \"TR\"]}], \"}\"}], \"\[Rule]\", RowBox[{\"{\
+\", RowBox[{SubscriptBox[StyleBox[\"out\", \"TI\"], StyleBox[\"1\", \"TR\"]], \
+\",\", SubscriptBox[StyleBox[\"out\", \"TI\"], StyleBox[\"2\", \"TR\"]], \
+\",\", StyleBox[\"\[Ellipsis]\", \"TR\"]}], \"}\"}]}], \"]\"}]\) generates \
+the same result.\n\!\(\*RowBox[{\"Predict\", \"[\", \
+RowBox[{StyleBox[\"training\", \"TI\"], \",\", StyleBox[\"input\", \"TI\"]}], \
+\"]\"}]\) attempts to predict the output associated with \
+\!\(\*StyleBox[\"input\", \"TI\"]\) from the training examples given.\n\
+\!\(\*RowBox[{\"Predict\", \"[\", RowBox[{StyleBox[\"\\\"\\!\\(\\*StyleBox[\\\
+\"name\\\",\\\"TI\\\"]\\)\\\"\", ShowStringCharacters->True], \",\", \
+StyleBox[\"input\", \"TI\"]}], \"]\"}]\) uses the built-in predictor function \
+represented by \"\!\(\*StyleBox[\"name\", \"TI\"]\)\".\n\
+\!\(\*RowBox[{\"Predict\", \"[\", RowBox[{StyleBox[\"predictor\", \"TI\"], \
+\",\", StyleBox[\"opts\", \"TI\"]}], \"]\"}]\) takes an existing predictor \
+function and modifies it with the new options given.", "Documentation" -> 
+    Association[
+     "Local" -> "paclet:ref/Predict", "Web" -> 
+      "http://reference.wolfram.com/language/ref/Predict.html"], "OwnValues" -> 
+    None, "UpValues" -> None, "DownValues" -> None, "SubValues" -> None, 
+    "DefaultValues" -> None, "NValues" -> None, "FormatValues" -> None, 
+    "Options" -> None, "Attributes" -> {Protected, ReadProtected}, "FullName" -> 
+    "System`Predict"], False]]], "Output",
+ CellChangeTimes->{3.802126746672772*^9},
+ CellLabel->"Out[1]=",ExpressionUUID->"8d0b1f04-3920-4ed0-b0be-570e17fa9af5"]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell[BoxData[
+ RowBox[{"?", "Classify"}]], "Input",
+ CellChangeTimes->{{3.802127184530162*^9, 3.8021271879660892`*^9}},
+ CellLabel->"In[2]:=",ExpressionUUID->"d5e2eac6-1594-4a3a-8dab-89e609496635"],
+
+Cell[BoxData[
+ InterpretationBox[
+  StyleBox[
+   FrameBox[
+    DynamicModuleBox[{System`InformationDump`open$$ = False, 
+     System`InformationDump`mouseOver$$ = False}, 
+     PaneSelectorBox[{True->
+      TagBox[GridBox[{
+         {
+          ItemBox[
+           PaneBox[
+            StyleBox["\<\" Symbol\"\>", "InformationTitleText",
+             StripOnInput->False,
+             BaseStyle -> None],
+            FrameMargins->{{4, 0}, {-1, 1}}],
+           BaseStyle->"InformationTitleBackground",
+           StripOnInput->False], 
+          ItemBox[
+           PaneBox[
+            TooltipBox[
+             ButtonBox[
+              PaneSelectorBox[{False->
+               
+               DynamicBox[FEPrivate`FrontEndResource[
+                "FEBitmaps", "InformationHelpIcon"]], True->
+               
+               DynamicBox[FEPrivate`FrontEndResource[
+                "FEBitmaps", "InformationHelpIconHot"]]}, Dynamic[
+                CurrentValue["MouseOver"]]],
+              Appearance->None,
+              BaseStyle->"Link",
+              ButtonData->"paclet:ref/Classify",
+              ButtonNote->"paclet:ref/Classify"],
+             "\"paclet:ref/Classify\""],
+            FrameMargins->{{0, 4}, {0, 2}}],
+           BaseStyle->"InformationTitleBackground",
+           StripOnInput->False]},
+         {
+          ItemBox[
+           PaneBox[
+            
+            StyleBox["\<\"\\!\\(\\*RowBox[{\\\"Classify\\\", \\\"[\\\", \
+RowBox[{\\\"{\\\", RowBox[{RowBox[{SubscriptBox[StyleBox[\\\"example\\\", \
+\\\"TI\\\"], StyleBox[\\\"1\\\", \\\"TR\\\"]], \\\"\[Rule]\\\", \
+SubscriptBox[StyleBox[\\\"class\\\", \\\"TI\\\"], StyleBox[\\\"1\\\", \
+\\\"TR\\\"]]}], \\\",\\\", RowBox[{SubscriptBox[StyleBox[\\\"example\\\", \
+\\\"TI\\\"], StyleBox[\\\"2\\\", \\\"TR\\\"]], \\\"\[Rule]\\\", \
+SubscriptBox[StyleBox[\\\"class\\\", \\\"TI\\\"], StyleBox[\\\"2\\\", \
+\\\"TR\\\"]]}], \\\",\\\", StyleBox[\\\"\[Ellipsis]\\\", \\\"TR\\\"]}], \\\"}\
+\\\"}], \\\"]\\\"}]\\) generates a \
+\\!\\(\\*RowBox[{\\\"ClassifierFunction\\\", \\\"[\\\", StyleBox[\\\"\
+\[Ellipsis]\\\", \\\"TR\\\"], \\\"]\\\"}]\\) based on the examples and \
+classes given.\\n\\!\\(\\*RowBox[{\\\"Classify\\\", \\\"[\\\", \
+RowBox[{RowBox[{\\\"{\\\", RowBox[{SubscriptBox[StyleBox[\\\"example\\\", \
+\\\"TI\\\"], StyleBox[\\\"1\\\", \\\"TR\\\"]], \\\",\\\", \
+SubscriptBox[StyleBox[\\\"example\\\", \\\"TI\\\"], StyleBox[\\\"2\\\", \
+\\\"TR\\\"]], \\\",\\\", StyleBox[\\\"\[Ellipsis]\\\", \\\"TR\\\"]}], \\\"}\\\
+\"}], \\\"\[Rule]\\\", RowBox[{\\\"{\\\", \
+RowBox[{SubscriptBox[StyleBox[\\\"class\\\", \\\"TI\\\"], StyleBox[\\\"1\\\", \
+\\\"TR\\\"]], \\\",\\\", SubscriptBox[StyleBox[\\\"class\\\", \\\"TI\\\"], \
+StyleBox[\\\"2\\\", \\\"TR\\\"]], \\\",\\\", StyleBox[\\\"\[Ellipsis]\\\", \\\
+\"TR\\\"]}], \\\"}\\\"}]}], \\\"]\\\"}]\\) also generates a \\!\\(\\*RowBox[{\
+\\\"ClassifierFunction\\\", \\\"[\\\", StyleBox[\\\"\[Ellipsis]\\\", \\\"TR\\\
+\"], \\\"]\\\"}]\\) based on the examples and classes \
+given.\\n\\!\\(\\*RowBox[{\\\"Classify\\\", \\\"[\\\", RowBox[{\\\"\
+\[LeftAssociation]\\\", RowBox[{RowBox[{SubscriptBox[StyleBox[\\\"class\\\", \
+\\\"TI\\\"], StyleBox[\\\"1\\\", \\\"TR\\\"]], \\\"\[Rule]\\\", RowBox[{\\\"{\
+\\\", RowBox[{SubscriptBox[StyleBox[\\\"example\\\", \\\"TI\\\"], StyleBox[\\\
+\"11\\\", \\\"TR\\\"]], \\\",\\\", SubscriptBox[StyleBox[\\\"example\\\", \
+\\\"TI\\\"], StyleBox[\\\"12\\\", \\\"TR\\\"]], \\\",\\\", StyleBox[\\\"\
+\[Ellipsis]\\\", \\\"TR\\\"]}], \\\"}\\\"}]}], \\\",\\\", \
+RowBox[{SubscriptBox[StyleBox[\\\"class\\\", \\\"TI\\\"], StyleBox[\\\"2\\\", \
+\\\"TR\\\"]], \\\"\[Rule]\\\", RowBox[{\\\"{\\\", \
+RowBox[{SubscriptBox[StyleBox[\\\"example\\\", \\\"TI\\\"], StyleBox[\\\"21\\\
+\", \\\"TR\\\"]], \\\",\\\", StyleBox[\\\"\[Ellipsis]\\\", \\\"TR\\\"]}], \
+\\\"}\\\"}]}], \\\",\\\", StyleBox[\\\"\[Ellipsis]\\\", \\\"TR\\\"]}], \\\"\
+\[RightAssociation]\\\"}], \\\"]\\\"}]\\) generates a \
+\\!\\(\\*RowBox[{\\\"ClassifierFunction\\\", \\\"[\\\", StyleBox[\\\"\
+\[Ellipsis]\\\", \\\"TR\\\"], \\\"]\\\"}]\\) based on an association of \
+classes with their examples.\\n\\!\\(\\*RowBox[{\\\"Classify\\\", \\\"[\\\", \
+RowBox[{StyleBox[\\\"training\\\", \\\"TI\\\"], \\\",\\\", \
+StyleBox[\\\"data\\\", \\\"TI\\\"]}], \\\"]\\\"}]\\) attempts to classify \\!\
+\\(\\*StyleBox[\\\"data\\\", \\\"TI\\\"]\\) using a classifier function \
+deduced from the training set given.\\n\\!\\(\\*RowBox[{\\\"Classify\\\", \
+\\\"[\\\", \
+RowBox[{StyleBox[\\\"\\\\\\\"\\\\!\\\\(\\\\*StyleBox[\\\\\\\"name\\\\\\\",\\\\\
+\\\"TI\\\\\\\"]\\\\)\\\\\\\"\\\", ShowStringCharacters->True], \\\",\\\", \
+StyleBox[\\\"data\\\", \\\"TI\\\"]}], \\\"]\\\"}]\\) attempts to classify \\!\
+\\(\\*StyleBox[\\\"data\\\", \\\"TI\\\"]\\) using the built-in classifier \
+function represented by \\\"\\!\\(\\*StyleBox[\\\"name\\\", \
+\\\"TI\\\"]\\)\\\".\\n\\!\\(\\*RowBox[{\\\"Classify\\\", \\\"[\\\", \
+RowBox[{StyleBox[\\\"\[Ellipsis]\\\", \\\"TR\\\"], \\\",\\\", \
+StyleBox[\\\"data\\\", \\\"TI\\\"], \\\",\\\", StyleBox[\\\"prop\\\", \
+\\\"TI\\\"]}], \\\"]\\\"}]\\) gives the specified property of the \
+classification associated with \\!\\(\\*StyleBox[\\\"data\\\", \
+\\\"TI\\\"]\\).\\n\\!\\(\\*RowBox[{\\\"Classify\\\", \\\"[\\\", \
+RowBox[{StyleBox[\\\"classifier\\\", \\\"TI\\\"], \\\",\\\", \
+StyleBox[\\\"opts\\\", \\\"TI\\\"]}], \\\"]\\\"}]\\) takes an existing \
+classifier function and modifies it with the new options given.\"\>", 
+             "InformationUsageText",
+             StripOnInput->False,
+             LineSpacing->{1.5, 1.5, 3.}],
+            FrameMargins->{{10, 10}, {8, 10}}],
+           BaseStyle->"InformationUsageSubtitleBackground",
+           StripOnInput->False], 
+          ItemBox["\<\"\"\>",
+           BaseStyle->"InformationUsageSubtitleBackground",
+           StripOnInput->False]},
+         {
+          PaneBox[GridBox[{
+             {
+              
+              DynamicModuleBox[{System`InformationDump`open$$ = {
+               False, False, False, False, False, False, False, False, False, 
+                False, False, False}}, 
+               StyleBox[GridBox[{
+                  {
+                   TagBox[
+                    TooltipBox[
+                    StyleBox["\<\" Documentation\"\>", "InformationRowLabel",
+                    StripOnInput->False],
+                    "\"Documentation\"",
+                    TooltipStyle->"TextStyling"],
+                    Annotation[#, "Documentation", "Tooltip"]& ], 
+                   TemplateBox[{
+                    
+                    TemplateBox[{
+                    "\"Local \[RightGuillemet]\"", "paclet:ref/Classify", 
+                    "paclet:ref/Classify", "Link", {
+                    RGBColor[0.9686274509803922, 0.4666666666666667, 0.]}, 
+                    BaseStyle -> {
+                    RGBColor[0.0784313725490196, 0.1568627450980392, 0.6]}}, 
+                    "HyperlinkTemplate"], "\"  \"", 
+                    StyleBox[
+                    "\"|\"", "InformationRowLabel", StripOnInput -> False], 
+                    "\"  \"", 
+                    TemplateBox[{"\"Web \[RightGuillemet]\"", {
+                    URL[
+                    "http://reference.wolfram.com/language/ref/Classify.html"]\
+, None}, "http://reference.wolfram.com/language/ref/Classify.html", 
+                    "Hyperlink", {
+                    RGBColor[0.9686274509803922, 0.4666666666666667, 0.]}, 
+                    BaseStyle -> {
+                    RGBColor[0.0784313725490196, 0.1568627450980392, 0.6]}}, 
+                    "HyperlinkTemplate"]},
+                    "RowDefault"]},
+                  {
+                   TagBox[
+                    TooltipBox[
+                    StyleBox["\<\" Attributes\"\>", "InformationRowLabel",
+                    StripOnInput->False],
+                    "\"Attributes\"",
+                    TooltipStyle->"TextStyling"],
+                    Annotation[#, "Attributes", "Tooltip"]& ], 
+                   RowBox[{"{", 
+                    RowBox[{"Protected", ",", "ReadProtected"}], "}"}]},
+                  {
+                   TagBox[
+                    TooltipBox[
+                    StyleBox["\<\" Full Name\"\>", "InformationRowLabel",
+                    StripOnInput->False],
+                    "\"FullName\"",
+                    TooltipStyle->"TextStyling"],
+                    
+                    Annotation[#, "FullName", 
+                    "Tooltip"]& ], "\<\"System`Classify\"\>"}
+                 },
+                 AutoDelete->False,
+                 GridBoxAlignment->{"Columns" -> {Right, Left}},
+                 GridBoxDividers->None,
+                 GridBoxItemSize->{"Columns" -> {Automatic, Automatic}},
+                 GridBoxSpacings->{"Columns" -> {
+                    Offset[0.27999999999999997`], {
+                    Offset[0.5599999999999999]}, 
+                    Offset[0.27999999999999997`]}, "Rows" -> {
+                    Offset[0.2], {
+                    Offset[0.8]}, 
+                    Offset[0.2]}}], "DialogStyle",
+                StripOnInput->False],
+               DynamicModuleValues:>{}]}
+            },
+            DefaultBaseStyle->"Column",
+            GridBoxAlignment->{"Columns" -> {{Left}}},
+            GridBoxDividers->{"Columns" -> {{False}}, "Rows" -> {{False}}},
+            
+            GridBoxItemSize->{
+             "Columns" -> {{Automatic}}, "Rows" -> {{Automatic}}},
+            GridBoxSpacings->{"Columns" -> {
+                Offset[0.27999999999999997`], {
+                 Offset[0.5599999999999999]}, 
+                Offset[0.27999999999999997`]}, "Rows" -> {
+                Offset[0.2], {
+                 Offset[3.6]}, 
+                Offset[0.2]}}],
+           FrameMargins->6], ""},
+         {
+          ItemBox[
+           TagBox[
+            ButtonBox[
+             PaneSelectorBox[{False->
+              
+              DynamicBox[FEPrivate`FrontEndResource[
+               "FEBitmaps", "UpPointerOpener"]], True->
+              
+              DynamicBox[FEPrivate`FrontEndResource[
+               "FEBitmaps", "UpPointerOpenerHot"]]}, Dynamic[
+              System`InformationDump`mouseOver$$]],
+             Alignment->Left,
+             Appearance->{"Default" -> None},
+             
+             ButtonFunction:>FEPrivate`Set[
+              System`InformationDump`open$$, False],
+             Evaluator->Automatic,
+             FrameMargins->{{9, 0}, {0, 0}},
+             ImageMargins->0,
+             ImageSize->Full,
+             Method->"Preemptive"],
+            
+            EventHandlerTag[{
+             "MouseEntered" :> 
+              FEPrivate`Set[System`InformationDump`mouseOver$$, True], 
+              "MouseExited" :> 
+              FEPrivate`Set[System`InformationDump`mouseOver$$, False], 
+              Method -> "Preemptive", PassEventsDown -> Automatic, 
+              PassEventsUp -> True}]],
+           BaseStyle->"InformationTitleBackground",
+           StripOnInput->False], "\[SpanFromLeft]"}
+        },
+        AutoDelete->False,
+        FrameStyle->Directive[
+          GrayLevel[0.8], 
+          Thickness[Tiny]],
+        GridBoxAlignment->{"Columns" -> {Left, Right}, "Rows" -> {{Center}}},
+        GridBoxDividers->{
+         "Columns" -> {{None}}, "Rows" -> {False, {True}, False}},
+        GridBoxItemSize->{
+         "Columns" -> {{Automatic}}, "Rows" -> {{Automatic}}}],
+       "Grid"], False->
+      TagBox[GridBox[{
+         {
+          ItemBox[
+           PaneBox[
+            StyleBox["\<\" Symbol\"\>", "InformationTitleText",
+             StripOnInput->False],
+            FrameMargins->{{4, 0}, {-1, 1}}],
+           BaseStyle->"InformationTitleBackground",
+           StripOnInput->False], 
+          ItemBox[
+           PaneBox[
+            TooltipBox[
+             ButtonBox[
+              PaneSelectorBox[{False->
+               
+               DynamicBox[FEPrivate`FrontEndResource[
+                "FEBitmaps", "InformationHelpIcon"],
+                ImageSizeCache->{13., {4., 9.}}], True->
+               DynamicBox[FEPrivate`FrontEndResource[
+                "FEBitmaps", "InformationHelpIconHot"],
+                ImageSizeCache->{13., {4., 9.}}]}, Dynamic[
+                CurrentValue["MouseOver"]]],
+              Appearance->None,
+              BaseStyle->"Link",
+              ButtonData->"paclet:ref/Classify",
+              ButtonNote->"paclet:ref/Classify"],
+             "\"paclet:ref/Classify\""],
+            FrameMargins->{{0, 4}, {0, 2}}],
+           BaseStyle->"InformationTitleBackground",
+           StripOnInput->False]},
+         {
+          ItemBox[
+           PaneBox[
+            
+            StyleBox["\<\"\\!\\(\\*RowBox[{\\\"Classify\\\", \\\"[\\\", \
+RowBox[{\\\"{\\\", RowBox[{RowBox[{SubscriptBox[StyleBox[\\\"example\\\", \
+\\\"TI\\\"], StyleBox[\\\"1\\\", \\\"TR\\\"]], \\\"\[Rule]\\\", \
+SubscriptBox[StyleBox[\\\"class\\\", \\\"TI\\\"], StyleBox[\\\"1\\\", \
+\\\"TR\\\"]]}], \\\",\\\", RowBox[{SubscriptBox[StyleBox[\\\"example\\\", \
+\\\"TI\\\"], StyleBox[\\\"2\\\", \\\"TR\\\"]], \\\"\[Rule]\\\", \
+SubscriptBox[StyleBox[\\\"class\\\", \\\"TI\\\"], StyleBox[\\\"2\\\", \
+\\\"TR\\\"]]}], \\\",\\\", StyleBox[\\\"\[Ellipsis]\\\", \\\"TR\\\"]}], \\\"}\
+\\\"}], \\\"]\\\"}]\\) generates a \
+\\!\\(\\*RowBox[{\\\"ClassifierFunction\\\", \\\"[\\\", StyleBox[\\\"\
+\[Ellipsis]\\\", \\\"TR\\\"], \\\"]\\\"}]\\) based on the examples and \
+classes given.\\n\\!\\(\\*RowBox[{\\\"Classify\\\", \\\"[\\\", \
+RowBox[{RowBox[{\\\"{\\\", RowBox[{SubscriptBox[StyleBox[\\\"example\\\", \
+\\\"TI\\\"], StyleBox[\\\"1\\\", \\\"TR\\\"]], \\\",\\\", \
+SubscriptBox[StyleBox[\\\"example\\\", \\\"TI\\\"], StyleBox[\\\"2\\\", \
+\\\"TR\\\"]], \\\",\\\", StyleBox[\\\"\[Ellipsis]\\\", \\\"TR\\\"]}], \\\"}\\\
+\"}], \\\"\[Rule]\\\", RowBox[{\\\"{\\\", \
+RowBox[{SubscriptBox[StyleBox[\\\"class\\\", \\\"TI\\\"], StyleBox[\\\"1\\\", \
+\\\"TR\\\"]], \\\",\\\", SubscriptBox[StyleBox[\\\"class\\\", \\\"TI\\\"], \
+StyleBox[\\\"2\\\", \\\"TR\\\"]], \\\",\\\", StyleBox[\\\"\[Ellipsis]\\\", \\\
+\"TR\\\"]}], \\\"}\\\"}]}], \\\"]\\\"}]\\) also generates a \\!\\(\\*RowBox[{\
+\\\"ClassifierFunction\\\", \\\"[\\\", StyleBox[\\\"\[Ellipsis]\\\", \\\"TR\\\
+\"], \\\"]\\\"}]\\) based on the examples and classes \
+given.\\n\\!\\(\\*RowBox[{\\\"Classify\\\", \\\"[\\\", RowBox[{\\\"\
+\[LeftAssociation]\\\", RowBox[{RowBox[{SubscriptBox[StyleBox[\\\"class\\\", \
+\\\"TI\\\"], StyleBox[\\\"1\\\", \\\"TR\\\"]], \\\"\[Rule]\\\", RowBox[{\\\"{\
+\\\", RowBox[{SubscriptBox[StyleBox[\\\"example\\\", \\\"TI\\\"], StyleBox[\\\
+\"11\\\", \\\"TR\\\"]], \\\",\\\", SubscriptBox[StyleBox[\\\"example\\\", \
+\\\"TI\\\"], StyleBox[\\\"12\\\", \\\"TR\\\"]], \\\",\\\", StyleBox[\\\"\
+\[Ellipsis]\\\", \\\"TR\\\"]}], \\\"}\\\"}]}], \\\",\\\", \
+RowBox[{SubscriptBox[StyleBox[\\\"class\\\", \\\"TI\\\"], StyleBox[\\\"2\\\", \
+\\\"TR\\\"]], \\\"\[Rule]\\\", RowBox[{\\\"{\\\", \
+RowBox[{SubscriptBox[StyleBox[\\\"example\\\", \\\"TI\\\"], StyleBox[\\\"21\\\
+\", \\\"TR\\\"]], \\\",\\\", StyleBox[\\\"\[Ellipsis]\\\", \\\"TR\\\"]}], \
+\\\"}\\\"}]}], \\\",\\\", StyleBox[\\\"\[Ellipsis]\\\", \\\"TR\\\"]}], \\\"\
+\[RightAssociation]\\\"}], \\\"]\\\"}]\\) generates a \
+\\!\\(\\*RowBox[{\\\"ClassifierFunction\\\", \\\"[\\\", StyleBox[\\\"\
+\[Ellipsis]\\\", \\\"TR\\\"], \\\"]\\\"}]\\) based on an association of \
+classes with their examples.\\n\\!\\(\\*RowBox[{\\\"Classify\\\", \\\"[\\\", \
+RowBox[{StyleBox[\\\"training\\\", \\\"TI\\\"], \\\",\\\", \
+StyleBox[\\\"data\\\", \\\"TI\\\"]}], \\\"]\\\"}]\\) attempts to classify \\!\
+\\(\\*StyleBox[\\\"data\\\", \\\"TI\\\"]\\) using a classifier function \
+deduced from the training set given.\\n\\!\\(\\*RowBox[{\\\"Classify\\\", \
+\\\"[\\\", \
+RowBox[{StyleBox[\\\"\\\\\\\"\\\\!\\\\(\\\\*StyleBox[\\\\\\\"name\\\\\\\",\\\\\
+\\\"TI\\\\\\\"]\\\\)\\\\\\\"\\\", ShowStringCharacters->True], \\\",\\\", \
+StyleBox[\\\"data\\\", \\\"TI\\\"]}], \\\"]\\\"}]\\) attempts to classify \\!\
+\\(\\*StyleBox[\\\"data\\\", \\\"TI\\\"]\\) using the built-in classifier \
+function represented by \\\"\\!\\(\\*StyleBox[\\\"name\\\", \
+\\\"TI\\\"]\\)\\\".\\n\\!\\(\\*RowBox[{\\\"Classify\\\", \\\"[\\\", \
+RowBox[{StyleBox[\\\"\[Ellipsis]\\\", \\\"TR\\\"], \\\",\\\", \
+StyleBox[\\\"data\\\", \\\"TI\\\"], \\\",\\\", StyleBox[\\\"prop\\\", \
+\\\"TI\\\"]}], \\\"]\\\"}]\\) gives the specified property of the \
+classification associated with \\!\\(\\*StyleBox[\\\"data\\\", \
+\\\"TI\\\"]\\).\\n\\!\\(\\*RowBox[{\\\"Classify\\\", \\\"[\\\", \
+RowBox[{StyleBox[\\\"classifier\\\", \\\"TI\\\"], \\\",\\\", \
+StyleBox[\\\"opts\\\", \\\"TI\\\"]}], \\\"]\\\"}]\\) takes an existing \
+classifier function and modifies it with the new options given.\"\>", 
+             "InformationUsageText",
+             StripOnInput->False,
+             LineSpacing->{1.5, 1.5, 3.}],
+            FrameMargins->{{10, 10}, {8, 10}}],
+           BaseStyle->"InformationUsageSubtitleBackground",
+           StripOnInput->False], 
+          ItemBox["\<\"\"\>",
+           BaseStyle->"InformationUsageSubtitleBackground",
+           StripOnInput->False]},
+         {
+          ItemBox[
+           TagBox[
+            ButtonBox[
+             PaneSelectorBox[{False->
+              
+              DynamicBox[FEPrivate`FrontEndResource[
+               "FEBitmaps", "DownPointerOpener"],
+               ImageSizeCache->{10., {3., 7.}}], True->
+              
+              DynamicBox[FEPrivate`FrontEndResource[
+               "FEBitmaps", "DownPointerOpenerHot"],
+               ImageSizeCache->{10., {3., 7.}}]}, Dynamic[
+              System`InformationDump`mouseOver$$]],
+             Alignment->Left,
+             Appearance->{"Default" -> None},
+             
+             ButtonFunction:>FEPrivate`Set[
+              System`InformationDump`open$$, True],
+             Evaluator->Automatic,
+             FrameMargins->{{9, 0}, {0, 0}},
+             ImageMargins->0,
+             ImageSize->Full,
+             Method->"Preemptive"],
+            
+            EventHandlerTag[{
+             "MouseEntered" :> 
+              FEPrivate`Set[System`InformationDump`mouseOver$$, True], 
+              "MouseExited" :> 
+              FEPrivate`Set[System`InformationDump`mouseOver$$, False], 
+              Method -> "Preemptive", PassEventsDown -> Automatic, 
+              PassEventsUp -> True}]],
+           BaseStyle->"InformationTitleBackground",
+           StripOnInput->False], "\[SpanFromLeft]"}
+        },
+        AutoDelete->False,
+        FrameStyle->Directive[
+          GrayLevel[0.8], 
+          Thickness[Tiny]],
+        GridBoxAlignment->{"Columns" -> {Left, Right}, "Rows" -> {{Center}}},
+        GridBoxDividers->{
+         "Columns" -> {{None}}, "Rows" -> {False, {True}, False}},
+        GridBoxItemSize->{
+         "Columns" -> {{Automatic}}, "Rows" -> {{Automatic}}}],
+       "Grid"]}, Dynamic[System`InformationDump`open$$],
+      BaselinePosition->Baseline,
+      FrameMargins->0,
+      ImageSize->Automatic],
+     DynamicModuleValues:>{}],
+    BaseStyle->"InformationGridFrame",
+    StripOnInput->False], "InformationGridPlain",
+   StripOnInput->False],
+  InformationData[
+   Association[
+   "ObjectType" -> "Symbol", "Usage" -> 
+    "\!\(\*RowBox[{\"Classify\", \"[\", RowBox[{\"{\", \
+RowBox[{RowBox[{SubscriptBox[StyleBox[\"example\", \"TI\"], StyleBox[\"1\", \
+\"TR\"]], \"\[Rule]\", SubscriptBox[StyleBox[\"class\", \"TI\"], StyleBox[\"1\
+\", \"TR\"]]}], \",\", RowBox[{SubscriptBox[StyleBox[\"example\", \"TI\"], \
+StyleBox[\"2\", \"TR\"]], \"\[Rule]\", SubscriptBox[StyleBox[\"class\", \
+\"TI\"], StyleBox[\"2\", \"TR\"]]}], \",\", StyleBox[\"\[Ellipsis]\", \
+\"TR\"]}], \"}\"}], \"]\"}]\) generates a \
+\!\(\*RowBox[{\"ClassifierFunction\", \"[\", StyleBox[\"\[Ellipsis]\", \
+\"TR\"], \"]\"}]\) based on the examples and classes given.\n\
+\!\(\*RowBox[{\"Classify\", \"[\", RowBox[{RowBox[{\"{\", \
+RowBox[{SubscriptBox[StyleBox[\"example\", \"TI\"], StyleBox[\"1\", \"TR\"]], \
+\",\", SubscriptBox[StyleBox[\"example\", \"TI\"], StyleBox[\"2\", \"TR\"]], \
+\",\", StyleBox[\"\[Ellipsis]\", \"TR\"]}], \"}\"}], \"\[Rule]\", RowBox[{\"{\
+\", RowBox[{SubscriptBox[StyleBox[\"class\", \"TI\"], StyleBox[\"1\", \
+\"TR\"]], \",\", SubscriptBox[StyleBox[\"class\", \"TI\"], StyleBox[\"2\", \
+\"TR\"]], \",\", StyleBox[\"\[Ellipsis]\", \"TR\"]}], \"}\"}]}], \"]\"}]\) \
+also generates a \!\(\*RowBox[{\"ClassifierFunction\", \"[\", StyleBox[\"\
+\[Ellipsis]\", \"TR\"], \"]\"}]\) based on the examples and classes given.\n\
+\!\(\*RowBox[{\"Classify\", \"[\", RowBox[{\"\[LeftAssociation]\", \
+RowBox[{RowBox[{SubscriptBox[StyleBox[\"class\", \"TI\"], StyleBox[\"1\", \
+\"TR\"]], \"\[Rule]\", RowBox[{\"{\", RowBox[{SubscriptBox[StyleBox[\"example\
+\", \"TI\"], StyleBox[\"11\", \"TR\"]], \",\", \
+SubscriptBox[StyleBox[\"example\", \"TI\"], StyleBox[\"12\", \"TR\"]], \",\", \
+StyleBox[\"\[Ellipsis]\", \"TR\"]}], \"}\"}]}], \",\", \
+RowBox[{SubscriptBox[StyleBox[\"class\", \"TI\"], StyleBox[\"2\", \"TR\"]], \
+\"\[Rule]\", RowBox[{\"{\", RowBox[{SubscriptBox[StyleBox[\"example\", \
+\"TI\"], StyleBox[\"21\", \"TR\"]], \",\", StyleBox[\"\[Ellipsis]\", \
+\"TR\"]}], \"}\"}]}], \",\", StyleBox[\"\[Ellipsis]\", \"TR\"]}], \"\
+\[RightAssociation]\"}], \"]\"}]\) generates a \
+\!\(\*RowBox[{\"ClassifierFunction\", \"[\", StyleBox[\"\[Ellipsis]\", \
+\"TR\"], \"]\"}]\) based on an association of classes with their examples.\n\
+\!\(\*RowBox[{\"Classify\", \"[\", RowBox[{StyleBox[\"training\", \"TI\"], \
+\",\", StyleBox[\"data\", \"TI\"]}], \"]\"}]\) attempts to classify \
+\!\(\*StyleBox[\"data\", \"TI\"]\) using a classifier function deduced from \
+the training set given.\n\!\(\*RowBox[{\"Classify\", \"[\", RowBox[{StyleBox[\
+\"\\\"\\!\\(\\*StyleBox[\\\"name\\\",\\\"TI\\\"]\\)\\\"\", \
+ShowStringCharacters->True], \",\", StyleBox[\"data\", \"TI\"]}], \"]\"}]\) \
+attempts to classify \!\(\*StyleBox[\"data\", \"TI\"]\) using the built-in \
+classifier function represented by \"\!\(\*StyleBox[\"name\", \"TI\"]\)\".\n\
+\!\(\*RowBox[{\"Classify\", \"[\", RowBox[{StyleBox[\"\[Ellipsis]\", \"TR\"], \
+\",\", StyleBox[\"data\", \"TI\"], \",\", StyleBox[\"prop\", \"TI\"]}], \
+\"]\"}]\) gives the specified property of the classification associated with \
+\!\(\*StyleBox[\"data\", \"TI\"]\).\n\!\(\*RowBox[{\"Classify\", \"[\", \
+RowBox[{StyleBox[\"classifier\", \"TI\"], \",\", StyleBox[\"opts\", \
+\"TI\"]}], \"]\"}]\) takes an existing classifier function and modifies it \
+with the new options given.", "Documentation" -> 
+    Association[
+     "Local" -> "paclet:ref/Classify", "Web" -> 
+      "http://reference.wolfram.com/language/ref/Classify.html"], "OwnValues" -> 
+    None, "UpValues" -> None, "DownValues" -> None, "SubValues" -> None, 
+    "DefaultValues" -> None, "NValues" -> None, "FormatValues" -> None, 
+    "Options" -> None, "Attributes" -> {Protected, ReadProtected}, "FullName" -> 
+    "System`Classify"], False]]], "Output",
+ CellChangeTimes->{3.802127188972165*^9},
+ CellLabel->"Out[2]=",ExpressionUUID->"1018d4fb-2a59-4e43-b74b-46fc778c5a3d"]
+}, Open  ]]
+}, Open  ]]
+},
+WindowSize->{960., 681.75},
+WindowMargins->{{0, Automatic}, {0.75, Automatic}},
+FrontEndVersion->"12.1 for Linux x86 (64-bit) (March 18, 2020)",
+StyleDefinitions->"Default.nb",
+ExpressionUUID->"65c843bf-1ff3-4e6e-af25-c26013d1b7c5"
+]
+(* End of Notebook Content *)
+
+(* Internal cache information *)
+(*CellTagsOutline
+CellTagsIndex->{}
+*)
+(*CellTagsIndex
+CellTagsIndex->{}
+*)
+(*NotebookFileOutline
+Notebook[{
+Cell[558, 20, 6090, 107, 104, "Text",ExpressionUUID->"058051f1-1366-482e-85e8-8280a85cb714"],
+Cell[CellGroupData[{
+Cell[6673, 131, 344, 5, 98, "Title",ExpressionUUID->"2c060bd2-16f8-4be7-a1cb-b603277d5507"],
+Cell[7020, 138, 510, 8, 35, "Text",ExpressionUUID->"821c9a04-960a-44e3-bcef-e2a26c0a8676"],
+Cell[7533, 148, 931, 19, 173, "Text",ExpressionUUID->"6b20f662-cf09-4aa8-a6c1-6dfcb0581bc2"],
+Cell[8467, 169, 313, 5, 40, "Text",ExpressionUUID->"e505aeac-7ccb-47f9-b90b-aeafdef68fa6"],
+Cell[CellGroupData[{
+Cell[8805, 178, 194, 3, 29, "Input",ExpressionUUID->"6838ddfb-b251-42cb-b091-c01987a871e8"],
+Cell[9002, 183, 18396, 384, 249, "Output",ExpressionUUID->"8d0b1f04-3920-4ed0-b0be-570e17fa9af5"]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[27435, 572, 197, 3, 29, "Input",ExpressionUUID->"d5e2eac6-1594-4a3a-8dab-89e609496635"],
+Cell[27635, 577, 22979, 448, 279, "Output",ExpressionUUID->"1018d4fb-2a59-4e43-b74b-46fc778c5a3d"]
+}, Open  ]]
+}, Open  ]]
+}
+]
+*)
+
+(* End of internal cache information *)
+
